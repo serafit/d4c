@@ -1,2 +1,34 @@
-# d4c
-Сплоит для генерации бэкдоров на Metasploit framework. 
+<p align="center">
+<a href=""><img title="infect" src="https://pbs.twimg.com/media/Df7BL6_XUAI-RwN.jpg"></a>
+</p>
+
+
+## О сплоите :
+
+Обычная генерация и подключение к заражённому устройству
+
+## Тестировалось на :
+
+* Termux
+
+* Ubuntu 
+
+* Kali
+
+## Установка [Termux, Linux] :
+
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `pkg install python -y`
+* `pkg install python2 -y`
+* `pkg install git -y`
+* `pip install eel`
+* `git clone https://github.com/serafit/d4c`
+* `ls`
+* `cd d4c`
+* `ls`
+* `python main.py`
+
+
+## WARNING : 
+***Осторожней! Разработчик не несёт ответственности за проделанные вами действия. Программа создавалась для ознокомительных целях***
