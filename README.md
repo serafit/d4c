@@ -22,7 +22,7 @@
 * `pkg install python -y`
 * `pkg install python2 -y`
 * `pkg install git -y`
-* `pip install eel`
+* `pip install progress`
 * `git clone https://github.com/serafit/d4c`
 * `ls`
 * `cd d4c`
