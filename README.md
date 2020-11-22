@@ -19,10 +19,11 @@
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
-* `pkg install python -y`
+* `pkg install python3 -y`
 * `pkg install python2 -y`
 * `pkg install git -y`
-* `pip install progress`
+* `pip3 install progress`
+* `pip3 install termcolor`
 * `git clone https://github.com/serafit/d4c`
 * `ls`
 * `cd d4c`
