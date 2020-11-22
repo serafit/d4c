@@ -54,8 +54,9 @@ ip=$(ip addr show wlan0 | awk '/inet / {print $2}' | cut -d/ -f 1)
 (8rd) Enable Remote Desktop (ms17_010_psexec)
 (9) Exploit Windows with a link (HTA Server)
 '
- 
+pkg install postgresql
 service postgresql start
+
 exe='1'
 apk='2'
 py='3'
